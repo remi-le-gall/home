@@ -4,15 +4,17 @@ title: Enseignement
 permalink: /Enseignement/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Institut d'administration des entreprises (IAE) de Nancy ##
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Licence Administration économique et sociale (AES)  
+	- Histoire des faits économiques (L1)  
+	*Syllabus* - *Bibliographie*  
+	- Phénomènes économiques contemporains (L1)  
+		*Syllabus* - *Bibliographie*  
+	- Monnaie et financement de l'économie (L2)  
+		*Syllabus* - *Bibliographie*  
+	- Histoire de la pensée économique (L2)  
+		*Syllabus* - *Bibliographie*  
+- Licence Professionnelle Assistant.e Ressources Humaines
+	- Economie du travail  
+		*Syllabus* - *Bibliographie*  

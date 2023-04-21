@@ -11,13 +11,12 @@
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Rémi Le Gall
 email: remi.le-gall@univ-lorraine.fr
 description: >- # this means to ignore newlines until "baseurl:"
@@ -31,12 +30,13 @@ github_username:  remi-le-gall
 mastodon: 
  - username: remilg
    instance: econtwitter.net
+linkedin_username: rémi-le-gall
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-spaceship
 header_pages:
-    - presentation.md
     - publications.md
     - communication.md
     - projets.md
