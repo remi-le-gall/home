@@ -105,7 +105,7 @@ table td { border: 1px solid #e8e8e8; }
   .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
 @media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
 /** Page content */
-.page-content { padding: 30px 0; flex: 1; }
+.page-content { padding: 30px 0; flex: 1; text-align: justify; }
 
 .page-heading { font-size: 32px; }
 
@@ -118,6 +118,10 @@ table td { border: 1px solid #e8e8e8; }
 
 .post-link { display: block; font-size: 24px; }
 
+.imageDiv img { padding: 5px; }
+
+.img { border-radius: 50%; float: right; width: 100px; height: 50px; /* prob. you dont need this */ padding: 5px; margin: 1em; border: 0; }
+
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
@@ -125,6 +129,7 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
 .post-content { margin-bottom: 30px; }
+.post-content img { float: right; margin: 1em; border: 1px solid #ddd; border-radius: 25% 10%; }
 .post-content h2 { font-size: 32px; }
 @media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
 .post-content h3 { font-size: 26px; }
