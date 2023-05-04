@@ -45,11 +45,11 @@ permalink: /publications/
 ## Rapports réalisés dans le cadre d’une convention d’étude et de recherche  
 **Quantifier le non-recours aux minima sociaux en Europe : un phénomène d’ampleur qui peine à susciter le débat**  
 *avec Marc Céline, Portela Mickaël, Hannafi Cyrine, Rode Antoine et Laguérodie Stéphanie*  
-2022, [Dossiers de la Drees, 94. DREES](https://hal.science/hal-03618424)  
+2022, [Dossiers de la Drees, 94. DREES](https://hal.science/hal-03618424) - [English version](https://hal.science/hal-04082333v1/document)  
 
 **Mesurer le non-recours au RSA et à la prime d’activité : méthode et résultats**  
 *avec Hannafi Cyrine, Omalek Laure et Marc Céline*  
-2022, [Dossiers de la Drees, 92. DREES](https://hal.science/hal-03618416)  
+2022, [Dossiers de la Drees, 92. DREES](https://hal.science/hal-03618416) - [English version](https://hal.science/hal-04082347v1/document)  
 
 **Analyser les effets de l’accompagnement social des CAF sur les publics : une approche par les capabilités et le bien-être**  
 *avec Cervera Melaine, Émond Céline, Hourcade Renaud et Jung Céline*  
