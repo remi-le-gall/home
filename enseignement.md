@@ -29,5 +29,5 @@ permalink: /Enseignement/
 ## Faculté de Droit et Sciences économiques de Nancy ##
 
 - Licence Economie / Droit-économie / Philosophie-Economie
-	- Economie du travail  
+	- Economie du travail (L3)   
 		*Syllabus* - *Bibliograhie*

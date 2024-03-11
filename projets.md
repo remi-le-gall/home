@@ -9,14 +9,15 @@ permalink: /projets/
 
 ## Non-recours aux minima sociaux 
 
+**Suivi de l'expérimentation territoire zéro non-recours en Meurthe et Moselle**  
+
 **Non-recours temporaire et permanent au Revenu de solidarité active**  
 (avec Cyrine Hannafi, Cnaf)  
 
 **Recours aux minima sociaux et choix intra-familiaux**  
 (avec François Legendre, Erudite)
 
-**Non-recours au RSA et à la PA 2020**  
-(avec le Bureau Redistribution et Evaluation de la DREES)  
+
 
 ## Capabilité et bien-être en travail social  
 
@@ -31,3 +32,8 @@ permalink: /projets/
 
 **Panorama statistique des parcours de sortie des ITEP à l'aube de la généralisation du dispositif**  
 (avec Melaine Cervera, 2L2S ; Audrey Parron, LISST)
+
+## Economie du travail ##
+
+**LES AGENTS DES GREFFES : DES ACTEURS CENTRAUX DANS L’ÉQUIPE AUTOUR DES MAGISTRAT·ES ? (AGACEM)**  
+(avec Lionel Jacquot, TETRAS (coord.) ; Sylvie Pierre-Maurice, CDPF (coord.), François Gallinari, HuManiS ; Laurent Kondratuk, CRJFC ; Nathalie Pierre, CRJ ; Pierre-Louis Sanchez, CERLIS ; Nawel Sidi Ali Cherif, CEREFIGE ; Albena Tcholakova, TETRAS)   

@@ -63,10 +63,16 @@ permalink: /publications/
 *avec Fremigacci Florent, L’Horty Yannick et Petit Pascale*  
 2016, [Études et Recherches, n°8, « Pratiques et impact des activités réduites », Pôle Emploi](https://shs.hal.science/halshs-01374419)  
 
-## Tribunes et interviews  
+## Tribunes et interviews
+**Un bénéficiaire du RSA conditionné sur deux retrouve-t-il un emploi comme l'affirme Gabriel Attal ?**  
+mars 2024, [FranceTV Info](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-un-beneficiaire-du-rsa-conditionne-sur-deux-retrouve-t-il-un-emploi-comme-l-affirme-gabriel-attal_6405382.html)  
+
+**Le conditionnement du versement du RSA risque-t-il d’accroître le non-recours à cette aide sociale ?**
+octobre 2023, [Le Monde - Les Décodeurs](https://www.lemonde.fr/les-decodeurs/article/2023/10/10/le-conditionnement-du-versement-du-rsa-risque-t-il-d-accroitre-le-non-recours-a-cette-aide-sociale_6193481_4355770.html)  
+
 **L’automatisation des prestations sociales ne peut se faire au détriment d’un accompagnement humain**  
 *avec Gravoin Pierre*  
-avril 2022, [Acteurs Publics](https://acteurspublics.fr/articles/lautomatisation-des-prestations-sociales-ne-peut-se-faire-au-detriment-dun-accompagnement-humain)  
+avril 2023, [Acteurs Publics](https://acteurspublics.fr/articles/lautomatisation-des-prestations-sociales-ne-peut-se-faire-au-detriment-dun-accompagnement-humain)  
 
 **RSA : le non-recours à l’allocation, un problème bien plus important que la fraude**  
 *avec Chareyron Sylvain et L'Horty Yannick*  
