@@ -67,7 +67,7 @@ permalink: /publications/
 **Un bénéficiaire du RSA conditionné sur deux retrouve-t-il un emploi comme l'affirme Gabriel Attal ?**  
 mars 2024, [FranceTV Info](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-un-beneficiaire-du-rsa-conditionne-sur-deux-retrouve-t-il-un-emploi-comme-l-affirme-gabriel-attal_6405382.html)  
 
-**Le conditionnement du versement du RSA risque-t-il d’accroître le non-recours à cette aide sociale ?**
+**Le conditionnement du versement du RSA risque-t-il d’accroître le non-recours à cette aide sociale ?**  
 octobre 2023, [Le Monde - Les Décodeurs](https://www.lemonde.fr/les-decodeurs/article/2023/10/10/le-conditionnement-du-versement-du-rsa-risque-t-il-d-accroitre-le-non-recours-a-cette-aide-sociale_6193481_4355770.html)  
 
 **L’automatisation des prestations sociales ne peut se faire au détriment d’un accompagnement humain**  
@@ -76,10 +76,10 @@ avril 2023, [Acteurs Publics](https://acteurspublics.fr/articles/lautomatisation
 
 **RSA : le non-recours à l’allocation, un problème bien plus important que la fraude**  
 *avec Chareyron Sylvain et L'Horty Yannick*  
-juin 2022, [The Conversation](https://theconversation.com/rsa-le-non-recours-a-lallocation-un-probleme-bien-plus-important-que-la-fraude-184061)
+juin 2022, [The Conversation](https://theconversation.com/rsa-le-non-recours-a-lallocation-un-probleme-bien-plus-important-que-la-fraude-184061)  
 
 **Le versement automatique des aides sociales, un chantier pharaonique**  
 avril 2022, [Mediapart](https://www.mediapart.fr/journal/economie/070422/le-versement-automatique-des-aides-sociales-un-chantier-pharaonique)  
 
 **RSA : le scandale du non-recours**  
-février 2022, [Mediapart](https://www.mediapart.fr/journal/france/140222/rsa-le-scandale-du-non-recours)
+février 2022, [Mediapart](https://www.mediapart.fr/journal/france/140222/rsa-le-scandale-du-non-recours)  
