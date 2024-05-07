@@ -35,7 +35,7 @@ permalink: /communication/
             <td rowspan=1>Matinée d’étude Habitat social pour la Ville</td>
         </tr>
             <tr>
-                <td rowspan=1>Journée d'études Arélia/Ulis</td>
+                <td rowspan=1>Journée d'étude Arélia/Ulis</td>
                 <td rowspan=1>Quelle mobilisation professionnelle pour les plus fragiles ?</td>
             </tr>
         	<tr>

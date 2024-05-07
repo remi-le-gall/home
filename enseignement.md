@@ -30,6 +30,6 @@ permalink: /Enseignement/
   
 ## Faculté de Droit et Sciences économiques de Nancy ##
 
-- Licence [Economie / Droit-économie / Philosophie-Economie](https://fac-droit.univ-lorraine.fr/formations/nos-licences/)
+- **Licence** [Economie / Droit-économie / Philosophie-Economie](https://fac-droit.univ-lorraine.fr/formations/nos-licences/)
 	- Economie du travail (L3)   
 		*Syllabus* - *Bibliograhie*
