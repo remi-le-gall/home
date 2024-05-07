@@ -6,9 +6,9 @@ permalink: /Enseignement/
 
 ## Institut d'administration des entreprises (IAE) de Nancy ##
 
-- Licence Administration économique et sociale (AES)  
+- **Licence** [Administration économique et sociale ](http://iae-nancy.univ-lorraine.fr/fr/nos-formations/licences-generales/licence-administration-economique-et-sociale)  (AES)
 	- Histoire des faits économiques (L1)  
-	*Syllabus* - *Bibliographie*  
+		*Syllabus* - *Bibliographie*  
 	- Phénomènes économiques contemporains (L1)  
 		*Syllabus* - *Bibliographie*
 	- Macroéconomie (L1)  
@@ -19,15 +19,17 @@ permalink: /Enseignement/
 		*Syllabus* - *Bibliographie*
 	- Economie des organisations (L3)  
 		*Syllabus* - *Bibliographie*  
-- Licence Professionnelle Assistant.e Ressources Humaines
+
+- **Licence Professionnelle** [Assistant.e Ressources Humaines](http://iae-nancy.univ-lorraine.fr/fr/nos-formations/licences-professionnelles/assistant-ressources-humaines)
 	- Economie du travail  
 		*Syllabus* - *Bibliographie*
-- Master Organisations du sanitaire et du social (MOSS)
+
+- **Master** [Management des organisations sanitaires et sociales](http://iae-nancy.univ-lorraine.fr/fr/nos-formations/masters/management-sectoriel-management-des-organisations-du-secteur-sanitaire-et) (MOSS)
 	- Responsabilité sociale des organisations (M1)  
 		*Syllabus* - *Bibliographie*
   
 ## Faculté de Droit et Sciences économiques de Nancy ##
 
-- Licence Economie / Droit-économie / Philosophie-Economie
+- Licence [Economie / Droit-économie / Philosophie-Economie](https://fac-droit.univ-lorraine.fr/formations/nos-licences/)
 	- Economie du travail (L3)   
 		*Syllabus* - *Bibliograhie*
