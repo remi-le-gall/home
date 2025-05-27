@@ -38,5 +38,5 @@ permalink: /Enseignement/
 ## UFR Sciences Humaines et Sociales de Metz ##
 
 - **Master** [Ingénierie et expertise des politiques sociales](https://master-ieps.formation.univ-lorraine.fr/) (IEPS)
-	- Statistiques et observations sociales (M1)
+	- Statistiques et observations sociales (M1)  
 		*Syllabus* - *Bibliograhie*
