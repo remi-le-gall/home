@@ -3,7 +3,7 @@ layout: page
 
 order: 1
 ---
-<img src="files/ISN_8182.jpg" >
+<img src="files/ISN_8182.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
 **Maître de conférences, en sciences économiques**, à l'[Université de Lorraine](https://www.univ-lorraine.fr/).  
 **Enseignant** à l'[IAE Nancy School of Management](https://iae-nancy.univ-lorraine.fr/fr).  
 **Chercheur** au Laboratoire [Territoire, Travail, Âge et Santé (TETRAS)](https://tetras.univ-lorraine.fr).  
