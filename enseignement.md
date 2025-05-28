@@ -27,6 +27,8 @@ permalink: /Enseignement/
 - **Master** [Management des organisations sanitaires et sociales](http://iae-nancy.univ-lorraine.fr/fr/nos-formations/masters/management-sectoriel-management-des-organisations-du-secteur-sanitaire-et) (MOSS)
 	- Responsabilité sociale des organisations (M1)  
 		*Syllabus* - *Bibliographie*
+	- Conduite d'un projet de recherche (M2)
+	- Innovation managériale (M2)
   
 ## Faculté de Droit et Sciences économiques de Nancy ##
 

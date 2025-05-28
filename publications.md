@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Thèse
 **[L'économie des dispositifs de vérification de l'information](https://theses.hal.science/tel-02152377)**  
-*Soutenue en 2018 - dirigée par Yannick L'Hory (Erudite)*  
+*Soutenue en 2018 - dirigée par Yannick L'Hory (Paris Est Sup' - Laboratoire Erudite)*  
 
 ## Ouvrages
 **Les effets de la surveillance électronique : une expérimentation dans un centre d’appels**  
@@ -21,7 +21,7 @@ permalink: /publications/
 *avec Chareyron Sylvain et L’Horty Yannick*  
 2022, [Revue économique, vol. 73, p. 735-759 ](https://www.cairn.info/revue-economique-2022-5-page-735.htm)  
 
-**How does labour market history influence the access to hiring interviews?  
+**How does labour market history influence the access to hiring interviews ?**  
 *avec Duguet Emmanuel, L’Horty Yannick, et Petit Pascale*  
 2018, [International Journal of Manpower, 39(4), p. 519-533](https://doi.org/10.1108/IJM-09-2017-0231)  
 
@@ -32,6 +32,15 @@ permalink: /publications/
 ## Articles dans des revues sans comité de lecture  
 **Le contrôle des demandeurs d’emplois**  
 2015, Les Cahiers Français, n°385, p. 80-86  
+
+## Documents de travail - Working Paper  
+**What are the determinants of permanent and temporary non take-up of the French minimum social benefit?**  
+*avec Hannafi Cyrine*  
+2025 - [HAL](https://hal.science/hal-05010935v1)
+
+**Automatisation de la solidarité : l'impossible réforme ?**  
+*avec Gravoin Pierre*  
+2023 - [LIEPP Working Paper n°146](https://sciencespo.hal.science/hal-04154433v1)
 
 ## Autres articles  
 **Pratiques et effets de l’accompagnement social des Caf sur leur publics : mesurer les évolutions des capabilités et du bien-être**  
