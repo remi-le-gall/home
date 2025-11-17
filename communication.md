@@ -18,15 +18,27 @@ permalink: /communication/
     </style>
         <tr>
             <th>Année</th>
-            <th>Evènement</th>
+            <th>Évènement</th>
             <th>Titre de l'intervention</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan = 4>2025</td>
+            <td rowspan = 7>2025</td>
             <tr>
-                    <td rowspan =1>La médiation sociale et l’accès aux droits et aux services : mise en perspective </br> 7ème Rencontre Territoriale DREETS & GIP FTVL Grand Est - Médiateurs sociaux</td>
+                    <td rowspan =1>Conférences solidarité et bien-vieillir</br> Communauté urbaine d'Arras</td>
+                    <td rowspan =1>Table ronde 1 - Lutte contre la grande précarité et l'insertion des habitants les plus fragiles</td> 
+            </tr>
+            <tr>
+                    <td rowspan =1>Séminaire TRAME</br> Laboratoire TETRAS - Université de Lorraine </td>
+                    <td rowspan =1>L’accompagnement social vers et dans le logement permet-il de dessiner les conditions d’encapacitation des personnes ? </td> 
+            </tr>
+               <tr>
+                    <td rowspan =1>Conférence territoriale sur l'accès aux droits sociaux</br> Communauté de communes Astaraoc Arros en Gascogne</td>
+                    <td rowspan =1>Accès aux droits / non-recours aux droits : les deux faces d’une même pièce</td> 
+            </tr>
+            <tr>
+                    <td rowspan =1>La médiation sociale et l’accès aux droits et aux services : mise en perspective </br> 7ème Rencontres Territoriale DREETS & GIP FTVL Grand Est (Reims, Strasbourg, Tomblaine) - Médiateurs sociaux</td>
                     <td rowspan =1>Territoires zéro non-recours : éclairages et place de la
 médiation sociale dans les dispositifs expérimentaux</td> 
             </tr>
@@ -104,6 +116,5 @@ médiation sociale dans les dispositifs expérimentaux</td>
             <td rowspan=1>Colloque Le non-recours aux prestations sociales en France et en Europe </br> Drees-Odenore</td>
 			<td >Mesurer régulièrement le non-recours au RSA et à la prime d’activité</td>
         </tr>
-        
     </tbody>
 </table>
