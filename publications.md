@@ -52,6 +52,11 @@ permalink: /publications/
 2015, [Connaissance de l’Emploi, n°126, Centre d’études de l’emploi](https://hal.science/hal-02135156)  
 
 ## Rapports réalisés dans le cadre d’une convention d’étude et de recherche  
+**De la performance sociale à l’utilité sociale - Mesure des effets des activités de l’association AMLI en termes d’accès et de maintien au logement sur les territoires**  
+*avec Cervera Melaine*  
+2025, [Dossier d'étude](https://hal.science/hal-05134525v1)  
+
+
 **Quantifier le non-recours aux minima sociaux en Europe : un phénomène d’ampleur qui peine à susciter le débat**  
 *avec Marc Céline, Portela Mickaël, Hannafi Cyrine, Rode Antoine et Laguérodie Stéphanie*  
 2022, [Dossiers de la Drees, 94. DREES](https://hal.science/hal-03618424) - [English version](https://hal.science/hal-04082333v1/document)  

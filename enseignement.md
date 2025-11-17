@@ -35,10 +35,15 @@ permalink: /Enseignement/
 - **Licence** [Economie / Droit-économie / Philosophie-Economie](https://fac-droit.univ-lorraine.fr/formations/nos-licences/)
 	- Economie du travail (L3)   
 		*Syllabus* - *Bibliograhie*
+- **Master** [Economie](https://fac-droit.univ-lorraine.fr/formations/masters-economie-et-finance/)
+	- Management (M1)  
+		*Syllabus* - *Bibliographie*	
 
 		
 ## UFR Sciences Humaines et Sociales de Metz ##
 
 - **Master** [Ingénierie et expertise des politiques sociales](https://master-ieps.formation.univ-lorraine.fr/) (IEPS)
 	- Statistiques et observations sociales (M1)  
+		*Syllabus* - *Bibliograhie*
+	- Accès aux droits (M2)  
 		*Syllabus* - *Bibliograhie*
